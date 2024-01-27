@@ -1,10 +1,6 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General", Channel One
-http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
 #EXTINF: -1 tvg-id="ChannelOneHD.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General", Channel One HD
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/1tv/index.m3u8
-#EXTINF: -1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General", Russia-1
-http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF: -1 tvg-id="Russia1HD.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General", Russia-1 HD
 https://vgtrk-live-megafon2.mediavitrina.ru/hls-livef2/russia1/index.m3u8
 #EXTINF: -1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="General", Russia-24
@@ -83,6 +79,10 @@ http://moobl.ru/hls/Moya_planeta.m3u8
 http://moobl.ru/hls/Fox_Life.m3u8
 #EXTINF: -1 tvg-id="Futbolnyy.ru" tvg-logo="https://i.imgur.com/qAse3wV.png" group-title="General", Futbolnyy
 http://moobl.ru/hls/Futbolniy_hd.m3u8
+#EXTINF: -1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General", Channel One
+http://135.181.115.81/russia/pervyj_kanal/playlist.m3u8
+#EXTINF: -1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General", Russia-1
+http://135.181.115.81/russia/rossiya_1/playlist.m3u8
 #EXTINF: -1 tvg-id="MTV.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Music", MTV
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="BRIDGE.ru" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Music", BRIDGE
